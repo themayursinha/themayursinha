@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=themayursinha&label=Profile%20views&color=0e75b6)
+Cybersecurity during the day, AI Robotics 🤖 at night.
