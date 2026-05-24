@@ -17,8 +17,3 @@ I engineer secure, resilient systems from first principles. With 15 years of ind
 * **Languages:** C, C++, Assembly, Python, CUDA
 * **Domains:** Malware Research, Edge Security, Autonomous Agent Governance, Model Context Protocol (MCP)
 * **Paradigms:** Zero Trust Architecture, Adversarial Machine Learning, Reverse Engineering
-
-## Connect
-* **Location:** Berlin, Germany
-* [LinkedIn](YOUR_LINKEDIN_URL)
-* [Twitter / X](YOUR_TWITTER_URL)
