@@ -14,6 +14,6 @@ I engineer secure, resilient systems from first principles. With 15 years of ind
 * **Interdisciplinary Rigor:** Applying analytical frameworks from physics and philosophy to solve asymmetrical challenges in cyberspace.
 
 ## Technical Arsenal
-* **Languages:** C, C++, Assembly, Python, CUDA
+* **Languages:** C, C++, Assembly, Python, Go, CUDA
 * **Domains:** Malware Research, Edge Security, Autonomous Agent Governance, Model Context Protocol (MCP)
 * **Paradigms:** Zero Trust Architecture, Adversarial Machine Learning, Reverse Engineering
