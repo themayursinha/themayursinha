@@ -3,7 +3,7 @@
 
 I engineer secure, resilient systems from first principles. With 15 years of industry experience in cybersecurity, my focus bridges the gap between low-level machine execution and high-level autonomous AI governance. I build architectures designed to withstand adversarial realities and endure as robust legacy systems.
 
-## Core Focus
+## Current Focus
 * **AI Security Architecture:** Designing secure inference pipelines, governing autonomous agents, and researching adversarial attacks on Large Language Models (LLMs).
 * **Systems & Reverse Engineering:** Deep-dive analysis and runtime protection at the machine level utilizing C, C++, Assembly, and CUDA.
 * **Agentic SOC Development:** Architecting AI-driven security automation platforms that transform raw investigation data into structured, actionable intelligence.
