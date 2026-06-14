@@ -1,19 +1,19 @@
 # Mayur Sinha
-### Staff Security Engineer | AI Security Architecture & Systems Engineering
+### Principal Security Architect | Sovereign AI & Autonomous Systems Containment
 
-I engineer secure, resilient systems from first principles. With 15 years of industry experience in cybersecurity, my focus bridges the gap between low-level machine execution and high-level autonomous AI governance. I build architectures designed to withstand adversarial realities and endure as robust legacy systems.
+I architect secure, resilient primitives for the next computational paradigm. My work bridges the lowest levels of machine execution (malware reverse engineering, bare-metal infrastructure) and the highest levels of autonomous AI governance. I do not build compliance checklists; I build containment architectures designed to withstand asymmetric threats and endure as foundational legacy systems.
 
-## Current Focus
-* **AI Security Architecture:** Designing secure inference pipelines, governing autonomous agents, and researching adversarial attacks on Large Language Models (LLMs).
-* **Systems & Reverse Engineering:** Deep-dive analysis and runtime protection at the machine level utilizing C, C++, Assembly, and CUDA.
-* **Agentic SOC Development:** Architecting AI-driven security automation platforms that transform raw investigation data into structured, actionable intelligence.
+## 🎯 Current Operational Focus
+* **Autonomous Agent Containment:** Designing bounded trust models, Model Context Protocol (MCP) guardrails, and runtime kill-switches to enforce "least agency" on non-deterministic LLM pipelines.
+* **Asymmetric Cyber Defense:** Engineering zero-trust architectures and execution replay harnesses designed to neutralize complex, state-level threats across highly distributed infrastructure.
+* **Systems & Low-Level Engineering:** Deep-dive execution analysis and protocol hardening utilizing Go, C, C++, Assembly, and CUDA.
 
-## Engineering Philosophy
-* **First Principles:** Breaking down complex security vulnerabilities and system architectures to their fundamental components. 
-* **Zero Trust & Security by Design:** Prioritizing rigorous runtime protection and identity governance over superficial static analysis.
-* **Interdisciplinary Rigor:** Applying analytical frameworks from physics and philosophy to solve asymmetrical challenges in cyberspace.
+## 🧠 Architectural Philosophy
+* **First Principles:** Deconstructing systemic vulnerabilities and monolithic architectures to their lowest mathematical and operational primitives. 
+* **Polymathic Synthesis:** Anticipating global-scale security failures by applying analytical frameworks from geopolitics, economics, military technology, and physics.
+* **Zero Trust by Design:** Rejecting superficial static analysis in favor of rigorous, mathematically sound runtime containment, identity governance, and continuous state reconciliation.
 
-## Technical Arsenal
-* **Languages:** C, C++, Assembly, Python, Go, CUDA
-* **Domains:** Malware Research, Edge Security, Autonomous Agent Governance, Model Context Protocol (MCP)
-* **Paradigms:** Zero Trust Architecture, Adversarial Machine Learning, Reverse Engineering
+## ⚙️ Technical Arsenal
+* **Languages:** Go, Python, C, C++, Assembly, CUDA
+* **Domains:** Agentic Security Architecture, Malware Deconstruction, Edge Defense, Distributed Systems, Protocol Containment
+* **Paradigms:** Bounded Heuristics, Adversarial Machine Learning, Zero Trust Architecture, Sovereign AI Safeguards
